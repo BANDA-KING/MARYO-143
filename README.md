@@ -4,7 +4,7 @@ Updated done ✅
  
 *METHOD 1/2/3/4🔥*
 
-*Version A.1.01*
+*Version A.1.05*
 
 cd $HOME
 
